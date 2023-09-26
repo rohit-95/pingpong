@@ -3,5 +3,5 @@ com/crud/repo/PersonRepo.class
 com/crud/controller/PersonController.class
 com/crud/DemoSinBdApplication.class
 com/crud/model/Person.class
-com/crud/service/IPersonService.class
 com/crud/controller/PersonRestController.class
+com/crud/service/IPersonService.class

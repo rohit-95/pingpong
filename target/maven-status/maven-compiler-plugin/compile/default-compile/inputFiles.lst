@@ -1,7 +1,7 @@
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/model/Person.java
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/service/IPersonService.java
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/DemoSinBdApplication.java
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/controller/PersonController.java
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/service/impl/PersonService.java
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/controller/PersonRestController.java
-/home/ec2-user/java-spring-boot-crud-without-database/src/main/java/com/crud/repo/PersonRepo.java
+/home/ec2-user/pingpong/src/main/java/com/crud/DemoSinBdApplication.java
+/home/ec2-user/pingpong/src/main/java/com/crud/controller/PersonRestController.java
+/home/ec2-user/pingpong/src/main/java/com/crud/model/Person.java
+/home/ec2-user/pingpong/src/main/java/com/crud/service/impl/PersonService.java
+/home/ec2-user/pingpong/src/main/java/com/crud/service/IPersonService.java
+/home/ec2-user/pingpong/src/main/java/com/crud/controller/PersonController.java
+/home/ec2-user/pingpong/src/main/java/com/crud/repo/PersonRepo.java
